@@ -1,0 +1,12 @@
+In python everything is really treated as objects
+class : A class is a special data type which defines how to build a certain kind of oobject.
+Instances : Are the objects that are created which follow the definitiongiven inside of the class
+
+__int__()  - serves as a constructor for the class and does some initialization work
+The "self" argument is the reference of the current instance of the class
+
+Attributes :
+1.Data Attribute : variable owned by a particular instance of a class 
+2.Class Attribute : Owned by the class as a whole
+
+NOTE : Other definitons were written in the sample3.py  file

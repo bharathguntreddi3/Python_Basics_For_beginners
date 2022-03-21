@@ -1,0 +1,15 @@
+Execption Handling:
+    Programers always try to write an error-free program, but sometimes a 
+program written by the programmer generates an error or not execute due to 
+the error generated in the program. Using try and except we can handle the errors.
+
+Types of errors:
+1.ZeroDivisionError 
+2.SyntaxError 
+3.SyntaxError 
+4.IndexError 
+5.NameError 
+6.TypeError 
+7.ValueError 
+8.OverflowError 
+9.KeyboardInterrupt Error

@@ -1,0 +1,26 @@
+Functions:
+    A Function is a block of organized, reusable code that is used to perform a single, related action.
+
+syntax : 
+    def func_name(arguments):
+            #code
+            #code......
+    
+Types of arguments:
+1.Positional arguments - passed to function in correct positional order
+2.Keyword arguments - Identifies parameters by their names
+3.Default arguments - we can mention the default values for the function parametrs in the definition
+4.Arbitrary arguments - If you do not know how many arguments that will be passed into your function, add a * before the parameter name in the function definition
+5.Keyword Arbitrary arguments - If you do not know how many keyword arguments that will be passed into your function, add two asterisk: ** before the parameter name in the function definition.
+
+Local and Global Variables :
+    When a variable is declared inside a function it is local variable and when we declare a variable outside a function it is Global
+
+Lambda Function:
+    Lambda functions is also defined as anonymous function because they are not declared in the standard manner by using function defintion def 
+    Syntax :
+        Lambda arguments : expression
+    
+
+
+NOTE : The Example codes for all functions are written in sample.py   file!!!!!

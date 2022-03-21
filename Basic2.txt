@@ -1,0 +1,27 @@
+ Lists:
+    Lists is a group or collection of elements that are ordered and changable and allows duplicates
+
+Tuple:
+    Tuple is a group or collection of elements that are unordered and unchangable and allows duplicates
+
+Set:
+    Sets are same as lisst but with a difference that sets are lists with no duplicate entries, changable, and ordered collection of elements
+
+Dictionary:
+    Dictionary is a group of elements arranged in the form of key-value pairs. Dictionaries are ordered and changable and no duplicates
+
+
+File System:  
+    File Systems allows you you create folders or directories within which you can organize files and other directories
+
+open(file_name, mode)   - mode can be r,w,rw,a (r-read, w-write, rw-read&write, a-read&write&append)
+
+f.close()   - closes a File
+
+f.write(sString)    - output aString to a file
+
+f.read()   -  inputs the contents of a file and returns them as a single String
+
+f.readline()    -  inputs a line of text and returns its as a string including the newline
+
+

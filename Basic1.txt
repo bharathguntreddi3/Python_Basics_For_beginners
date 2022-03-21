@@ -1,0 +1,18 @@
+Tokens:
+    1.Keywords - reserved words with fixed meaning
+    2.Identifiers/Variables - used to find a variable name, function, class or other objects/ memory representing elements
+    3.Operators 
+    4.Delimiters - symbols that peroform a special role 
+    5.Literals - Numbers or strings or characters or lists or tuples etc, etc that appear directly in the program
+
+eval() - Takes a string as input and returns a it in the type it is expected
+
+
+Operators :
+    1.Arithmetic Operators
+    2.relational/comparison operators 
+    3.Bitwise operators 
+    4.logical operators
+    5.Membership operators
+    6.identity operators
+
