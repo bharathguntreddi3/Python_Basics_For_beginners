@@ -13,3 +13,5 @@ Types of errors:
 7.ValueError 
 8.OverflowError 
 9.KeyboardInterrupt Error
+
+NOTE : The definitons and the codes and examples of the OOP woth Python are written in sample2.py file !!!!!!
